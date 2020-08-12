@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Salma Lalji
+Programmer Analyst, Library Applications,
+Information Technology | Engage. Envision. Enable.
+The University of British Columbia
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Please submit requests at http://helpdesk.library.ubc.ca
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:salma.lalji@ubc.ca)
